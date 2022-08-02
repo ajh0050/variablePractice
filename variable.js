@@ -1,10 +1,17 @@
-let firstName = "adam";
-let lastName = "hughes";
+var firstName = "adam";
+var lastName = "hughes";
 
-let student = true;
-let golfs = true;
-let goodAtGolf = false;
+var student = true;
+var golfs = true;
+var goodAtGolf = false;
 
-let age = 27;
-let farthestDrive = 256;
-let height = 6;
+var age = 27;
+var farthestDrive = 256;
+var height = 6;
+
+var firstName = "Adam";
+var lastName = "Hughes";
+
+console.log(firstName);
+console.log(lastName);
+console.log("My name is " + firstName + " " + lastName);
